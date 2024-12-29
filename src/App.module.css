@@ -48,3 +48,19 @@
   margin: auto;
   background-color: red;
 } */
+
+.empty{
+  width: 60%;
+  height: 10vh;
+  margin: auto;
+  font-weight: 100;
+  color: grey;
+  display: grid;
+  place-items: center;
+}
+
+.appCont{
+  width: 60%;
+  margin: auto;
+  /* border-bottom: 1px solid grey; */
+}
